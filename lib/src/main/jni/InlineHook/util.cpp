@@ -3,6 +3,7 @@
 #include <fcntl.h>
 #include <elf.h>
 #include <sys/mman.h>
+#include <unistd.h>
 #include <Helper.h>
 #include "Log.h"
 
